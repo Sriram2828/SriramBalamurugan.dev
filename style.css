@@ -321,6 +321,11 @@ section {
 #dec-none a:hover{
   text-decoration: none;
 }
+.about-me{
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
 
 /* EXPERIENCE SECTION */
 
